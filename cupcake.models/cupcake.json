@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "pumpkin",
+        "description": "Fall color favourite pumpkin decor",
+        "price": 5,
+        "ingredients": ["flour", "eggs", "pumpkin spice"]
+    },
+    {
+        "id": 2,
+        "name": "pumpkin",
+        "description": "Fall color favourite pumpkin decor",
+        "price": 5,
+        "ingredients": ["flour", "eggs", "pumpkin spice"]
+    }
+]

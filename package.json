@@ -1,0 +1,19 @@
+{
+  "name": "cupcake",
+  "version": "1.0.0",
+  "description": "A server for a Cupcake store",
+  "main": "/v2",
+  "scripts": {
+    "test": "test",
+    "serve": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "adevagiri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7"
+  }
+}
